@@ -105,7 +105,7 @@ Leveraging a multi-role distributed architecture with Ray for flexible resource 
 [RewardFL](https://alibaba.github.io/ROLL/docs/User%20Guides/Algorithms/Reward_FL)
 
 #### Backend
-[DeepSeed](https://alibaba.github.io/ROLL/docs/User%20Guides/Configuration/deepspeed)  
+[DeepSpeed](https://alibaba.github.io/ROLL/docs/User%20Guides/Configuration/deepspeed)  
 [Megatron](https://alibaba.github.io/ROLL/docs/User%20Guides/Configuration/megatron)   
 [vLLM](https://alibaba.github.io/ROLL/docs/User%20Guides/Configuration/vllm)  
 [SGLang](https://alibaba.github.io/ROLL/docs/User%20Guides/Configuration/sglang)
